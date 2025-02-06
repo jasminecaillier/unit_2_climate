@@ -140,3 +140,4 @@ cbind(twovec, recipricols) #this combined my two vectors as columns
 
 nasa= c(1,3,5,-999,2,-999,8)
 ifelse(nasa ==-999, yes = NA, no= nasa)
+
